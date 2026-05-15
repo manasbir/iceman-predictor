@@ -215,16 +215,10 @@ def build_album_song_term_mention_report(
     name_to_words = term_name_to_words(terms)
     songs_out: list[dict[str, Any]] = []
     for song in album.songs:
-        rd = (
-            song.release_date.isoformat()
-            if song.release_date is not None
-            else None
-        )
+        rd = song.release_date.isoformat() if song.release_date is not None else None
         terms_counts: dict[str, int] = {}
         for term_name, words in name_to_words.items():
-            terms_counts[term_name] = _count_term_mentions_in_lyrics(
-                song.lyrics, words
-            )
+            terms_counts[term_name] = _count_term_mentions_in_lyrics(song.lyrics, words)
         songs_out.append(
             {
                 "title": song.title,
@@ -304,9 +298,7 @@ def main():
     by_album_dir = (
         per_album_paths[0].parent if per_album_paths else Path("reports/by_album")
     )
-    print(
-        f"Wrote {len(per_album_paths)} per-album song reports under {by_album_dir}/"
-    )
+    print(f"Wrote {len(per_album_paths)} per-album song reports under {by_album_dir}/")
 
 
 if __name__ == "__main__":
