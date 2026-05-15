@@ -1,0 +1,6 @@
+{
+  "title": "Healing",
+  "lyrics": "I swear\nDon't wanna hurt myself no more\nI don't get it\nNobody tells me that I'm hurt, enough\nAlways tryna turn it back\nBut its a new day\nThat I don't don't don't\nDon't wanna hurt myself no more\n\n(I'm healing...)\n\nI came out tonight and I wanna go home\nI'd rather spend some time on my own\nI can't stand small talk nobody's real\nI look okay but that's just not how I feel\nI said some things I should've said more\nMy words were right your jaw hit the floor\nI wish I said what I thought I said before\nWhat I thought I said before\nWhat I thought I said before...\n\n(I'm healing...)\n\n(I came out tonight and I wanna go home\nI'd rather spend some time on my own\nI can't stand small talk nobody's real\nI look okay but that's just not how I feel\nI said some things I should've said more\nMy words were right your jaw hit the floor\nI wish I said what I thought I said before\nWhat I thought I said before\nWhat I thought I said before)\n",
+  "album": "DIAMANTE",
+  "release_date": "2024-07-26T00:00:00"
+}

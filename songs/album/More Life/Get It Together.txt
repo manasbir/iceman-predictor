@@ -1,0 +1,6 @@
+{
+  "title": "Get It Together",
+  "lyrics": "Hello\nI've been hurt so many times\nIt got to a point\nWhen I decided\nI can't do this anymore\nI need someone to hold me\nI need someone that needs me\nI need someone that loves me\n\nYou need me to get that shit together\nSo we can get together\nYou need me to get that shit together\nSo we can get together\nYou need me to\n(Yeah, yeah)\nYou need me to\n\nYou know, we don't have to be dramatic\nJust romantic\nDo all the little things, little things, little things\nThat excites me\nAs your woman\nGive me a kiss goodnight\nOver the phone\nWhen you're working late\nWhen you're out of town\nTell me how much you need this\n'Cause we deserve it\nWe can be together, but\n\nYou need me to get that shit together\nSo we can get together\nYou need me to get that shit together\nSo we can get together\nYou need me to (Yeah, yeah)\nYou need me to (Yeah)\nYou need me to\n\nHold one vibes\nPree more life\nCuh we ah pree more life\n\nDun know already, cuz\n",
+  "album": "More Life",
+  "release_date": "2017-03-18T00:00:00"
+}

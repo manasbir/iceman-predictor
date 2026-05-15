@@ -1,0 +1,6 @@
+{
+  "title": "Lemon (Drake Remix)",
+  "lyrics": "\nI get it how I live it\nI live it how I get it, y'all don't really get it\nI pull up in a lemon, blocks get to spinnin'\nMoney 3D printin'\nNever had a limit, never been religious\nI just always had opinions\nMy daddy told me, \"Listen\nYou better get some money and not die and go to prison\"\nSo you see\nYeah, I got rich and stayed free\nFree the dogs doin' B.I.D.s\nI know everybody not like me\nAy, got the nerve to want a Bentley for her birthday\nI said, \"Maybe I could rent it for your birthday\nMatter of fact I need a favor for the remix\nMaybe I can get some 50s for your birthday\"\nAy, get to sneakin' for you, bae\nSay we talk but we ain't speakin' every day\nAnd I know you know what P about to say\n",
+  "album": null,
+  "release_date": "2018-03-17T00:00:00"
+}

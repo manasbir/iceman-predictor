@@ -1,0 +1,6 @@
+{
+  "title": "Come Real",
+  "lyrics": "I always wonder why you bother putting make-up on\nYou don't need it\nAnd even though I always tell you that you're beautiful\nI'll repeat it\n'Cause I don't want no singer, I don't want no model\nAnd I don't want no fashion designer or nothing\nI just want your love\nI promise you that's more than enough for me\n\nAll you gotta do is come real\nShawty what the deal?\nDon't think just 'cause you simple that you lose your appeal\nI wouldn't have it any other way \nI wouldn't have it any other way \n\nBaby just because I wanna look good\nDon't mean that I ain't real\nNot in the least bit\nAll the clothes and doing of my hair, face, nails\nMake me feel good\nAnd I'll keep it up\nI'm not saying what you been staying to me\nAin't exactly\nWhat I need to feel and know\nYou're the one I'm wearing for\nAnd where I'll always go when I need a real love\n\nSo stay real\nWhat you make me feel\nIs true beauty of the ultimate appeal\nAnd I don't want it any other way \nAnd I don't want it any other way\n",
+  "album": "Heartbreak Drake",
+  "release_date": "2009-12-19T00:00:00"
+}

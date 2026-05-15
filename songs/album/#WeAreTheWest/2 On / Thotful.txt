@@ -1,0 +1,6 @@
+{
+  "title": "2 On / Thotful",
+  "lyrics": "\n",
+  "album": "#WeAreTheWest",
+  "release_date": "2014-05-12T00:00:00"
+}

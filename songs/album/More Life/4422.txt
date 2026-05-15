@@ -1,0 +1,6 @@
+{
+  "title": "4422",
+  "lyrics": "I'm runnin', but can't run away\nYou say you changed\nBut you never change up\n\n44, 22\nYou build it up to break it halfway through\nJust make the call, 22\nBut you're just the same as I ever knew\n44, 22\nYou build it up to break it halfway through\nJust make the call, 22\nBut you're just the same as I ever knew\n44, 22\nYou build it up to break it halfway through\nJust make the call, 22\nBut you're just the same as I ever knew\n44, 22\nYou build it up to break it halfway through\nJust make the call, 22\nBut you're just the same as I ever knew\n44, 22\nYou build it up to break it halfway through\nJust make the call, 22\nBut you're just the same as I ever knew\n\nI know I fear trust\nI know I fear fear too much\nOn my plate, lookin' up\nOuter space, Pearly Gates\n\nI'm runnin', but can't run away\nYou say you changed\nBut you never change up\n",
+  "album": "More Life",
+  "release_date": "2017-03-18T00:00:00"
+}

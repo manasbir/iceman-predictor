@@ -1,0 +1,6 @@
+{
+  "title": "Buried Alive Interlude, Pt. 2",
+  "lyrics": "If you were in a pine box, box\nI would shovel dirt on top, top\nI'd play this record on repeat, 'peat\nYou always been a bitch to me\nIf you was in a pine box, box\nI would still be in my spot, spot\nFor you to make it to the peak, peak\nIt'd have to be the death of me, the death of me\n\nLookin' in the mirror, still embarrassed\nStop talkin' how you gon' spare us\nReact like an infant whenever I am mentioned\nIt's like you need tension to always get attention\nYou always said how you wanna bury me alive\nJealousy disguised as yo' muhfuckin' pride\nTook you on your first tour with us, tryna catch a vibe\nI was headline, you was standin' on the side\nBrought you and that other hoe along for the ride\nFirst time people lined up for your ass\nNow you sayin' two pussy boys gettin' outta line\nYou been hatin' hard for a very long time\nIt feel like Twitter ghostwritin' your reply\nStreets out here talkin' like, \"At least a nigga tried\"\nIt's how you felt in 2011, why we wastin' time?\nDreams come true, crodie, this is where you die\n",
+  "album": null,
+  "release_date": "2024-05-03T00:00:00"
+}

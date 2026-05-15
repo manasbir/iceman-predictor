@@ -1,0 +1,6 @@
+{
+  "title": "A Little Favour (GQ Freestyle)",
+  "lyrics": "Diamonds hang around my neck, the crib is all finished\nNo love for these bitches I said this year it's all business\nIt is a shame that a couple of 'em are off limits\nNo offence to my nigga, it's just the industry is small\nWe all lust for the same women\nYou know the ones we saw before we came in it\nI know he ain't trippin'\nI know I got a couple things that Lil' Wayne dipped in\nAin't ashamed to admit it, I be the same with it\nThis shit is all about hits and misses\nThe ones that you fuck and the ones that you wife up\nDon't let them fuck your life up\nHalf a mill to perform, I can't let them fuck that shit up\nPlus I love the way my middle name looks when it's lit up\nJim Moore got me dressing like a leading man\nA little favour for a friend when I need a hand\nYoung Frank, suits cut right always\nJust got a couple Warhol's for my hallways\nNew verses crush the hood like I'm driving into something\nBitches on the kid like I'm Iverson of something\nLike a Sixer, since I sold 680 in my first\nDrizzy Drake, the only one that got the gift without the curse\nSwag!\n",
+  "album": null,
+  "release_date": "2012-04-13T00:00:00"
+}

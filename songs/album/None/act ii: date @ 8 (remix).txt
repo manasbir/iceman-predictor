@@ -1,0 +1,6 @@
+{
+  "title": "act ii: date @ 8 (remix)",
+  "lyrics": "\nWhat did I do to deserve you?\nDon't even know what I did\nBeen' prayin' on me since a kid\nI guess it's just luck if you say so\nHow you get all of that body and face, though?\nWhat kinda water they servin' in Clayco?\nListen me talkin', it's not DNA, ho\nReady to pop out but we gotta lay low\nI really gotta calm down\n'Fore I end up in jeopardy just like the game show\nBroski my twin, that's my bestie\nHe love me, said I got the blessin'\nI swear he's gassin' me up\nThere's no way in hell I see you passing me up\nAlmost said I loved yo' ass right after we fucked\nDon't know why, girl, it was on the tip of my tongue\nYeah, found someone I'm fallin' for\nYou hit me back, we're talkin' more now\nThe bodies that you caught before (They don't)\nMake me mad or insecure (I'm good)\nA thousand on your fuckin' hair\nTwo hunnid on your fuckin' nails, for real\nThis shit feel like a fairy tale (I swear)\nI'll make them open up Chanel, ch-ch\nI'm a stand-up guy like Dave Chappelle\nI was cursed, you 'bout to break the spell, for real\nTell that nigga that you done with him\nGirl, who cares if he gon' take it well, we done\n",
+  "album": null,
+  "release_date": "2024-03-08T00:00:00"
+}

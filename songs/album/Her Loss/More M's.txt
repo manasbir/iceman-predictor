@@ -1,0 +1,6 @@
+{
+  "title": "More M's",
+  "lyrics": "\n6 God lurkin'\nCome up off that bag for the boy that keep working\nDissin' on his album and it flopped, he deserved it\nCome up out that booth and bring that energy in person\nGot so many hits, it wouldn't be fair to do no verses\nI could really go five hours in the stadium\nWhat happened to that nigga claiming OVO? We traded him\nThought I was a popstar, I'm Slaughter Gang, I baited 'em\nWalk around like Prince 'cause I got a lot of lady friends\nUsed to be in 'Sauga out at Sega City Playdium\nSkatin' through this album like a Montreal Canadien\nWay that I ran shit, you'd think I was Iranian\nNiggas see my deal, look at they deal and now they hate the kid\nFuck, let me kick it basic\nNiggas ain't got love for the boy, so they fake it\nCrack a couple jokes to some bitches on some snake shit\nBut if I send a verse to they ass, then they'll take it\nShoot a video, arm around me like we aces\nOr pop out at my shows, jump around with me on stages\nProbably why these hoes love to shower me with praises\nMight've fucked a rapper, girl, but you ain't fucked Drake yet\nYeah\n",
+  "album": "Her Loss",
+  "release_date": "2022-11-04T00:00:00"
+}

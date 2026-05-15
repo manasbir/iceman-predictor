@@ -1,0 +1,6 @@
+{
+  "title": "OMW",
+  "lyrics": "\nYour mind and your body is outta control (Yeah)\nThe fuck was they thinking? You vulnerable, yeah (Okay)\nYou got them Liz Taylor diamonds and a heart of gold (Yeah)\nYou got that big ol' crib now and the sign says so (Ayy)\nWe're face to face in the crowd\nLaughin' over shots, people eyein' us down\nSame night, word is goin' 'round town\nThat kind of word can really get around\nThat can make a lost love come unfound\nYour ex needs to turn that frown upside down\nSmile and keep it pushin' before it goes south\nCan you come home with me tonight, are you allowed?\nI know you got the kids at the house\nPay the nanny double and come roll with the owl\nYou'll be back in time to make 'em breakfast, no doubt\nJust stay the night with me, get nasty\n",
+  "album": "$ome $exy $ongs 4 U",
+  "release_date": "2025-02-14T00:00:00"
+}

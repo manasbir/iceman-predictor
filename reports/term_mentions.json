@@ -1,0 +1,4289 @@
+{
+  "generated_at": "2026-05-15T02:01:13.222897+00:00",
+  "totals": {
+    "album_count": 41,
+    "song_count": 225,
+    "terms": {
+      "iceman": {
+        "songs_mentioning": 1,
+        "mentions": 1
+      },
+      "ovo": {
+        "songs_mentioning": 13,
+        "mentions": 13
+      },
+      "drizzy": {
+        "songs_mentioning": 24,
+        "mentions": 39
+      },
+      "diamond": {
+        "songs_mentioning": 6,
+        "mentions": 9
+      },
+      "mj": {
+        "songs_mentioning": 6,
+        "mentions": 6
+      },
+      "21": {
+        "songs_mentioning": 6,
+        "mentions": 29
+      },
+      "toronto": {
+        "songs_mentioning": 4,
+        "mentions": 4
+      },
+      "champagne": {
+        "songs_mentioning": 14,
+        "mentions": 19
+      },
+      "nike": {
+        "songs_mentioning": 5,
+        "mentions": 7
+      },
+      "papi": {
+        "songs_mentioning": 6,
+        "mentions": 6
+      },
+      "virgil": {
+        "songs_mentioning": 4,
+        "mentions": 4
+      },
+      "lebron": {
+        "songs_mentioning": 3,
+        "mentions": 3
+      },
+      "superbowl": {
+        "songs_mentioning": 0,
+        "mentions": 0
+      },
+      "raptors": {
+        "songs_mentioning": 0,
+        "mentions": 0
+      },
+      "crypto": {
+        "songs_mentioning": 0,
+        "mentions": 0
+      },
+      "asap": {
+        "songs_mentioning": 0,
+        "mentions": 0
+      },
+      "kendrick": {
+        "songs_mentioning": 3,
+        "mentions": 3
+      },
+      "metro": {
+        "songs_mentioning": 4,
+        "mentions": 6
+      },
+      "trump": {
+        "songs_mentioning": 1,
+        "mentions": 1
+      },
+      "kdot": {
+        "songs_mentioning": 1,
+        "mentions": 1
+      },
+      "rick ross": {
+        "songs_mentioning": 1,
+        "mentions": 1
+      },
+      "compton": {
+        "songs_mentioning": 0,
+        "mentions": 0
+      },
+      "pulitzer": {
+        "songs_mentioning": 1,
+        "mentions": 1
+      },
+      "kung fu kenny": {
+        "songs_mentioning": 0,
+        "mentions": 0
+      }
+    }
+  },
+  "by_album": [
+    {
+      "album": "$ome $exy $ongs 4 U",
+      "song_count": 21,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "drizzy": {
+          "songs_mentioning": 2,
+          "mentions": 2
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "100 GIGS",
+      "song_count": 6,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "2021 GRAMMY® Nominees",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Beam Me Up Scotty",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Best Night of My Life",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Care Package",
+      "song_count": 13,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "drizzy": {
+          "songs_mentioning": 4,
+          "mentions": 4
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Certified Lover Boy",
+      "song_count": 21,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 2,
+          "mentions": 2
+        },
+        "drizzy": {
+          "songs_mentioning": 2,
+          "mentions": 3
+        },
+        "diamond": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 2,
+          "mentions": 2
+        },
+        "virgil": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 2,
+          "mentions": 4
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "DIAMANTE",
+      "song_count": 2,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Dark Lane Demo Tapes",
+      "song_count": 14,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 1,
+          "mentions": 4
+        },
+        "nike": {
+          "songs_mentioning": 2,
+          "mentions": 4
+        },
+        "papi": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "EDNA (Deluxe)",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Feed The Streets 12",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "For All The Dogs: Scary Hours Edition",
+      "song_count": 23,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "drizzy": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "21": {
+          "songs_mentioning": 1,
+          "mentions": 12
+        },
+        "toronto": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "champagne": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Harder Than Ever",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Heartbreak Drake",
+      "song_count": 3,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 2,
+          "mentions": 8
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Her Loss",
+      "song_count": 15,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 2,
+          "mentions": 2
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "21": {
+          "songs_mentioning": 3,
+          "mentions": 4
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Honestly, Nevermind",
+      "song_count": 13,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Hook vs. Bridge",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 1,
+          "mentions": 3
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "If You’re Reading This It’s Too Late",
+      "song_count": 2,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Lil Boat 3.5",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Link Up TV Freestyles",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "drizzy": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "March Madness",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Memorial Day Weekend 2016 Soundtrack",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "More Life",
+      "song_count": 3,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 1,
+          "mentions": 3
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "None",
+      "song_count": 33,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "ovo": {
+          "songs_mentioning": 2,
+          "mentions": 2
+        },
+        "drizzy": {
+          "songs_mentioning": 5,
+          "mentions": 10
+        },
+        "diamond": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "mj": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "21": {
+          "songs_mentioning": 1,
+          "mentions": 12
+        },
+        "toronto": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "champagne": {
+          "songs_mentioning": 2,
+          "mentions": 3
+        },
+        "nike": {
+          "songs_mentioning": 2,
+          "mentions": 2
+        },
+        "papi": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "virgil": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "lebron": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 2,
+          "mentions": 2
+        },
+        "metro": {
+          "songs_mentioning": 2,
+          "mentions": 2
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "rick ross": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Nothing Was the Same",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "OVO Sound Radio Tracklists - Season 1 & 2",
+      "song_count": 2,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Over It (Complete Set)",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Rise of an Empire",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 1,
+          "mentions": 2
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Scary Hours 2",
+      "song_count": 3,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Scorpion",
+      "song_count": 25,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 2,
+          "mentions": 3
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 3,
+          "mentions": 3
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Smokers Choice",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Take Care",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Thank Me Later",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "The Best in the World Pack",
+      "song_count": 2,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "diamond": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "mj": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "The Leak 4",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Tim Westwood I Freestyles",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Top Boy Season 3 (Official OVO Playlist)",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Views",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "We the Best Forever",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Wilt Chamberlain: The Big Dipper",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 1,
+          "mentions": 2
+        },
+        "mj": {
+          "songs_mentioning": 1,
+          "mentions": 1
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    },
+    {
+      "album": "Young Sweet Jones 2",
+      "song_count": 1,
+      "terms": {
+        "iceman": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "ovo": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "drizzy": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "diamond": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "mj": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "21": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "toronto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "champagne": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "nike": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "papi": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "virgil": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "lebron": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "superbowl": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "raptors": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "crypto": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "asap": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kendrick": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "metro": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "trump": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kdot": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "rick ross": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "compton": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "pulitzer": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        },
+        "kung fu kenny": {
+          "songs_mentioning": 0,
+          "mentions": 0
+        }
+      }
+    }
+  ]
+}

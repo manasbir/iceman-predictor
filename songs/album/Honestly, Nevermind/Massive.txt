@@ -1,0 +1,6 @@
+{
+  "title": "Massive",
+  "lyrics": "I've been alone in my thoughts\nCan't feel this void between us\nI cannot stand losin' you, woah, woah\nAll these feelings intertwine, oh\nFightin' the urge to reach out\nAnd my stance remains unchanged, baby\nI can't help it, I'm so into you\n\nOh, when you're ready\nWe can put this behind us\nBaby, we could find us again, I know\nPut this behind us\nWe can find us again\n'Cause I don't wanna go\nI was alone, I was alone in this world\nAnd I needed people\nI know my funeral gon' be lit 'cause of how I treated people\nI don't wanna go, I don't wanna-\n\nSwervin' between emotions\nI know we got real issues\nCan't give in so easily, woah, woah\nWoah, woah, woah, woah\nAin't going out with no fight, no\nI'm just tryna play my part, yeah\nI'm not ready to let go, woah, woah\n\nOh, when you're ready\nWe can put this behind us\nBaby, we could find us again, I know\nPut this behind us\nWe can find us again\n'Cause I don't wanna go\nI was alone, I was alone in this world\nAnd I needed people\nI know my funeral gon' be lit 'cause of how I treated people\nI don't wanna go, I don't wanna-\n",
+  "album": "Honestly, Nevermind",
+  "release_date": "2022-06-17T00:00:00"
+}

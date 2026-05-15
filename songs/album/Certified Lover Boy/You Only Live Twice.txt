@@ -1,0 +1,6 @@
+{
+  "title": "You Only Live Twice",
+  "lyrics": "\nYeah, two-point-two for the Rafael Nadal\nDon't act like you're happy for me now\nDon't act like you wasn't prayin' for catastrophic collapses\nCatalog is immaculate\nStill runnin' the game, don't ask me about the practice\nHo, you go on vacation, don't ask me about relaxin'\nNot sure if you know but I'm actually Michael Jackson\nThe man I see in the mirror is actually goin' platinum\nUnthinkable when I think of the way these niggas been actin'\nYeah, I never did you nothin' and you play like we family, huh?\nNext thing, you wanna shoot me down, it can't be love\nNot sure where you was tryna send it, it can't be up\nThat day you sounded like a bitch, you fancy, huh?\nDamn, how can I forgive like this?\nI gotta dead a lot of shit just to live like this\nI had to fuck a lot of girls to get a kid like this\nI had to get a lot of cribs to get a crib like this, nigga\nThat's why I'm movin' all elusive\nThese boys on they last resort and it's givin' us all inclusive\nBeen spazzin' since CB was chunkin' up the deuces, nigga\nYour shit was boo-boo, excuses, excuses, nigga\n",
+  "album": "Certified Lover Boy",
+  "release_date": "2021-09-03T00:00:00"
+}

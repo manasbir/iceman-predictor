@@ -1,0 +1,6 @@
+{
+  "title": "Gently",
+  "lyrics": "\nYeah\nMy G, TitÃ­ came VIP happy from the baÃ±o\nBaby, my wrist is from Casablanco\nMe gusta su sonrisa aunque me haga daÃ±o\nI live like Sopranos, Italianos\nI've been El Chico for cincuenta aÃ±os\nMe gusta su culazo perreando\nLe da hasta abajo, le gusta este tamaÃ±o\nDale, Papi ChampaÃ±o, jheez\nEh, eh, eh, eh, eh\n\nEither I slow down the trip or I speed up the visa\nMi nah wan' leave ya\nGrab Eliza, bring her to Ibiza\nIntroduce to Richie aquÃ­\nMy broski Benito, he needs a banita\nA freak, bien loquita\nCrazy booty, mi amor, mi amiga\nElla sabe que estÃ¡ bien rica\n",
+  "album": "For All The Dogs: Scary Hours Edition",
+  "release_date": "2023-10-06T00:00:00"
+}

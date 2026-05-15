@@ -1,0 +1,6 @@
+{
+  "title": "Screw The World (Interlude)",
+  "lyrics": "\n",
+  "album": "For All The Dogs: Scary Hours Edition",
+  "release_date": "2023-10-06T00:00:00"
+}

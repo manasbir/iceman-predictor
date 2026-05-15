@@ -1,0 +1,6 @@
+{
+  "title": "Finesse",
+  "lyrics": "Yeah, turn everything up\nYeah, oh yeah (Oh yeah)\nTurn everything up a little more\n\nI want my baby to have your eyes\nI'm going against my own advice\nShould I do New York? I can't decide\nFashion week is more your thing than mine\nI can't even lie, I'd rather stay inside\nI can't do suit and tie\nCan't be in a room with you and stand on different sides\nOne thing at a time, I have to learn to hide\nOne thing at a time, emotions running high\nI wish you felt alright\n\nJust hitting my line\nAll the time, all the time, all theâ\nYou stay on my mind\nAll the time, all the time\nYeah\n\nIt takes some finesse\nI seen you finesse\nHe can't know finesse\nYou stay on my mind\n\nYou and your sister\nToo hot to handle\nThings would get cancelled\nI would make time for you\nCommitment\nGoing the distance\nI'm new to all of this\n\nIt takes some finesse\nI seen you finesse\nHe can't know finesse\nYou stay on my mind\n",
+  "album": "Scorpion",
+  "release_date": "2018-06-29T00:00:00"
+}

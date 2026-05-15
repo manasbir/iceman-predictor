@@ -1,0 +1,6 @@
+{
+  "title": "Yebba's Heartbreak",
+  "lyrics": "How much better can I show my love for you\nThan say \"I do, I do, I do\"?\nI do, I do, I do\nYou may not know right where you're going\nBut I do, I do, I do\nAnd all the times you wasn't chosen\nWell, I'll make it up to you\nAll of the feelings you're not showing\nWhen your river's overflowing\nIt's the truth, swear to you\nI do, I do, I do, I do, I do\nAnd all that you are, I do\nMy single line of stars in noon\nReflection of the very moon, I do\nI do, I do, I do\nShow my love for you\nCan I show my love for you?\n(Can I show my love for you?)\n",
+  "album": "Certified Lover Boy",
+  "release_date": "2021-09-03T00:00:00"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Summer's Over (Interlude)",
+  "lyrics": "Oh, baby, yeah\n\nDays in the sun\nAnd nights in the rain\nSummer is over, simple and plain\nFound me some fun that's good for the pain\nAlready told you, I don't feel the same\nI don't feel the same\n\nAnywhere I go\nI can't help but show\nI don't feel the same\nAnywhere I go\nI can't help but know\nI don't feel the same\nAnywhere I go\nI can't help but know\n",
+  "album": "Views",
+  "release_date": "2016-04-29T00:00:00"
+}
