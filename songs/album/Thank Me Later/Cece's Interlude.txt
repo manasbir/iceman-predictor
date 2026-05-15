@@ -1,0 +1,6 @@
+{
+  "title": "Cece's Interlude",
+  "lyrics": "All night I've, been staring, can you tell I want you?\nCan't be too, wide open, there's nothing, I won't do\nOh, just thought you should know\n\nThat's when you start to laugh\nSaying I just want what I can't have\nWon't even give me a chance\nClaiming I'm just not as serious as you\nShorty if you only knew, this is serious\n\nI wish I, wasn't famous\nI wish I, was still in school\nSo that I could have you in my dorm room\nI would put it on you, crazy\n\nThat's when you start to laugh\nSaying I just want what I can't have\nWon't even give me a chance\nClaiming I'm just not as serious as you\nShorty if you only knew, this is serious\n\nUp all night\nUp all night\nUp all night\nUp all night\nUp all night\nUp all night\nUp all night\n",
+  "album": "Thank Me Later",
+  "release_date": "2010-06-15T00:00:00"
+}

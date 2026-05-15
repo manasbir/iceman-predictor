@@ -263,21 +263,21 @@ def save_per_album_song_term_reports(
 
 def main():
     terms = [
-        Term(name="iceman", words=["iceman"]),
+        # Term(name="iceman", words=["iceman"]),
         Term(name="ovo", words=["ovo"]),
         Term(name="drizzy", words=["drizzy"]),
         Term(name="diamond", words=["diamond"]),
         Term(name="mj", words=["mj", "jordan"]),
-        Term(name="21", words=["21"]),
-        Term(name="toronto", words=["toronto"]),
+        # Term(name="21", words=["21"]),
+        # Term(name="toronto", words=["toronto"]),
         Term(name="champagne", words=["champagne"]),
         Term(name="nike", words=["nike"]),
         Term(name="papi", words=["papi"]),
         Term(name="virgil", words=["virgil"]),
         Term(name="lebron", words=["lebron"]),
-        Term(name="superbowl", words=["superbowl"]),
+        Term(name="superbowl", words=["superbowl", "super bowl"]),
         Term(name="raptors", words=["raptors"]),
-        Term(name="crypto", words=["crypto", "bitcoin"]),
+        # Term(name="crypto", words=["crypto", "bitcoin"]),
         Term(name="asap", words=["a$ap", "asap"]),
         Term(name="kendrick", words=["kendrick"]),
         Term(name="metro", words=["metro"]),
@@ -287,6 +287,7 @@ def main():
         Term(name="compton", words=["compton"]),
         Term(name="pulitzer", words=["pulitzer"]),
         Term(name="kung fu kenny", words=["kung fu kenny"]),
+        Term(name="batman", words=["batman", "bat man"]),
     ]
 
     albums = load_albums_from_disk()

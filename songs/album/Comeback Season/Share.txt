@@ -1,0 +1,6 @@
+{
+  "title": "Share",
+  "lyrics": "Take what you want, take what you want\nTake what you want, take what you want\nBut, you gotta share it with the world\n\nTake what you want, take what you want\nTake what you want, take what you want\nBut, you gotta share it with the world\n\nTake what you want, take what you want\nTake what you want, take what you want\nBut, you gotta share it with the world\n\nLately I've been murdering and avoiding conviction\nThis shit is like an addiction conflicting with what I do\nShout out to K Davis and my connect up at Avis\nCause every weekend I'm rollin' out stuntin' in somethin' new\nFortunately I am at an elevated level\nI'm celebrated at home and\nI am high above it all\nBut apologies to my fans that be super conscious\nJust wait 'til I get my money right and\nI am going to ball ball ball\n\nTake what you want, take what you want\nTake what you want, take what you want\nBut, you gotta share it with the world\n\nTake what you want, take what you want\nTake what you want, take what you want\nBut, you gotta share it with the world\n\nTake what you want, take what you want\nTake what you want, take what you want\nBut, you gotta share it with the world\n",
+  "album": "Comeback Season",
+  "release_date": "2007-09-01T00:00:00"
+}

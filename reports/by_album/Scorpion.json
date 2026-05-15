@@ -1,18 +1,15 @@
 {
   "album": "Scorpion",
-  "generated_at": "2026-05-15T02:01:13.343869+00:00",
+  "generated_at": "2026-05-15T02:52:35.032408+00:00",
   "songs": [
     {
       "title": "8 Out Of 10",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 2,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -20,7 +17,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -29,20 +25,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "After Dark",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -50,7 +44,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -59,20 +52,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Blue Tint",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -80,7 +71,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -89,20 +79,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Can't Take A Joke",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -110,7 +98,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -119,20 +106,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Don't Matter To Me",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -140,7 +125,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -149,20 +133,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Elevate",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 1,
         "nike": 0,
         "papi": 0,
@@ -170,7 +152,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -179,20 +160,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Emotionless",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -200,7 +179,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -209,20 +187,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Final Fantasy",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -230,7 +206,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -239,20 +214,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Finesse",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -260,7 +233,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -269,20 +241,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "God's Plan",
       "release_date": "2018-01-19T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -290,7 +260,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -299,20 +268,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "I'm Upset",
       "release_date": "2018-05-26T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -320,7 +287,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -329,20 +295,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "In My Feelings",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 1,
         "nike": 0,
         "papi": 0,
@@ -350,7 +314,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -359,20 +322,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Is There More",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -380,7 +341,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -389,20 +349,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Jaded",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -410,7 +368,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -419,20 +376,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "March 14",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 1,
         "nike": 0,
         "papi": 0,
@@ -440,7 +395,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -449,20 +403,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Mob Ties",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -470,7 +422,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -479,20 +430,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Nice For What",
       "release_date": "2018-04-06T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -500,7 +449,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -509,20 +457,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Nonstop",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 1,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -530,7 +476,6 @@
         "lebron": 1,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -539,20 +484,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Peak",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -560,7 +503,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -569,20 +511,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Ratchet Happy Birthday",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -590,7 +530,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -599,20 +538,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Sandra's Rose",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -620,7 +557,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -629,20 +565,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Summer Games",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -650,7 +584,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -659,20 +592,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Survival",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -680,7 +611,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -689,20 +619,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "Talk Up",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -710,7 +638,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -719,20 +646,18 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     },
     {
       "title": "That's How You Feel",
       "release_date": "2018-06-29T00:00:00",
       "terms": {
-        "iceman": 0,
         "ovo": 0,
         "drizzy": 0,
         "diamond": 0,
         "mj": 0,
-        "21": 0,
-        "toronto": 0,
         "champagne": 0,
         "nike": 0,
         "papi": 0,
@@ -740,7 +665,6 @@
         "lebron": 0,
         "superbowl": 0,
         "raptors": 0,
-        "crypto": 0,
         "asap": 0,
         "kendrick": 0,
         "metro": 0,
@@ -749,7 +673,8 @@
         "rick ross": 0,
         "compton": 0,
         "pulitzer": 0,
-        "kung fu kenny": 0
+        "kung fu kenny": 0,
+        "batman": 0
       }
     }
   ]

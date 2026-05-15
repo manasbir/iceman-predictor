@@ -1,0 +1,6 @@
+{
+  "title": "Wednesday Night Interlude",
+  "lyrics": "Been a minute since we've slept together\nFinna get myself together\nI've been thinkin' about everything\nI don't know if it's because I'm lonely\nLonely on a Wednesday night, girl, I'm lonely\nI'll admit it if you just keep quiet, girl, I'm lonely\nThat shit ain't my fault, girl cause I'm lonely\n\nName another woman\nAin't no other woman that should comfort me when I'm lonely\nMixing Remy, little bit of Henny\nI'm running on empty, I'm lonely\nWhen I'm lonely, when I'm lonely\n\nHeard you spent your summers in Miami\nAt somebody's yacht, that you didn't buy\nYou're young, yeah, have fun, girl, but I hope it was worth it\nCause fuck it, I'm not here to judge\nFuck it, I'm not here to love everything you did to ball\nFuck it, I'm just glad you called\nRing ring ring, what a thing\nRing ring ring, school bell, I ring\nYou and I got options, bae\n\nBut name another woman\nAin't no other woman that should comfort me when I'm lonely\nMixing Remy, little bit of Henny\nI'm running on empty, I'm lonely\nWhen I'm lonely, when I'm lonely\nThis shit ain't my fault\n",
+  "album": "If You’re Reading This It’s Too Late",
+  "release_date": "2015-02-13T00:00:00"
+}

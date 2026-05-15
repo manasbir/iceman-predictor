@@ -1,0 +1,6 @@
+{
+  "title": "Pound Cake / Paris Morton Music 2",
+  "lyrics": "\n",
+  "album": "Nothing Was the Same",
+  "release_date": "2013-09-24T00:00:00"
+}

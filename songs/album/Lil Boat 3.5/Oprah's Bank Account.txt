@@ -1,6 +1,0 @@
-{
-  "title": "Oprah's Bank Account",
-  "lyrics": "(EarlOnTheBeat...)\nBack home on a presi', I'm Obama, ayy, I condone the drama, ayy\nI tongued down Madonna, ayy, do you need pajamas? Yeah\nStayin' the night, girl, you promised it\nI hide in the cave like Osama did\nI'm blowin' a bag in the Diamond District\nYou need me like dollars that are owed to you, yeah\nMoney and me are the same, but I just don't fold for you, yeah\nRun me a body, I'll put a Range on the road for you\nI don't know what you were told, but I ain't mad at you, baby\n",
-  "album": "Lil Boat 3.5",
-  "release_date": "2020-03-09T00:00:00"
-}

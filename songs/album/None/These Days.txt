@@ -1,6 +1,0 @@
-{
-  "title": "These Days",
-  "lyrics": "I've been out walking\nI don't do too much talking these days\nThese days\nThese days I seem to think a lot\nAbout the things that I forgot to do\n\nThese days\n\nI've met some women\nI wish I had resisted these days\nThese days\nThese days I seem to think\nAbout how I have failed\nTo change all of my ways\n\nThese days\n\nYeah, I had a lover\nDon't think I'd risk another\nThese days\nThese days\nAnd if I seem to be afraid\nJust listen to the life I've made in songs\n\nThese days\n\nI've stopped the dreaming\nI don't do too much scheming\nThese days\nThese days\nI sit inside a chauffeur car\nWith windows down and count the stars\nThese days\nThese days\n",
-  "album": null,
-  "release_date": "2016-03-29T00:00:00"
-}
